@@ -1,112 +1,113 @@
-<h1 align="center">Hi, I'm Sudharshan 👋</h1>
-
-<h3 align="center">Cybersecurity Student | Aspiring Security Analyst</h3>
-
+<h1 align="center">Sudharshan M</h1>
 <p align="center">
-  Learning, building, and exploring the world of cybersecurity and software development.
+  <b>Computer Science & Cybersecurity Undergraduate</b><br>
+  Full-Stack Development · Secure Software · Machine Learning
 </p>
 
 <p align="center">
-  <a href="https://github.com/sudharshan1812">
-    <img src="https://img.shields.io/badge/GitHub-sudharshan1812-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-  </a>
+  <a href="https://www.linkedin.com/in/sudharshan-manikandan-7a3381372/"><img src="https://img.shields.io/badge/LinkedIn-Sudharshan_Manikandan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/sudharshan1812"><img src="https://img.shields.io/badge/GitHub-sudharshan1812-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:sudharshan.mj07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=sudharshan1812&style=flat-square&color=2563EB" alt="Profile views">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a Cybersecurity student at Chennai Institute of Technology, interested in understanding how systems work, identifying security weaknesses, and building technology that solves real-world problems.
+I'm a **Computer Science student specializing in Cybersecurity**, based in **Chennai, India**. I build practical software, from secure applications to intelligent systems, and I care about getting the fundamentals right: clean code, solid data structures, and security designed in from the start.
 
-- 🔐 Interested in cybersecurity, ethical hacking, and digital security.
-- 🐍 Learning Python and strengthening my programming fundamentals.
-- 🌐 Exploring networking, web technologies, and security concepts.
-- 🛠️ Building projects to develop practical technical skills.
-- 📚 Continuously learning through hands-on practice and technical projects.
-- 🎯 Goal: Build a career as a Security Analyst.
+**What I work on**
 
----
+- **Cybersecurity**: secure software development and application security
+- **Full-Stack Development**: web applications with Python, Java, and JavaScript
+- **Machine Learning**: AI-assisted tools and intelligent workflows
+- **Core CS**: operating systems, databases, OOP, and data structures
 
-## 🛠️ Technologies & Areas of Interest
-
-**Programming**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-**Cybersecurity Learning**
-<p>
-  <img src="https://img.shields.io/badge/Network_Security-0A66C2?style=flat-square" alt="Network Security"/>
-  <img src="https://img.shields.io/badge/Web_Security-2E8B57?style=flat-square" alt="Web Security"/>
-  <img src="https://img.shields.io/badge/Ethical_Hacking-333333?style=flat-square" alt="Ethical Hacking"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
-*I'm continuously developing these skills through coursework, personal projects, and hands-on practice.*
+**Currently:** building **Credecho** and sharpening my skills in secure development and ML.
 
 ---
 
-## 🚀 Featured Projects
+## Selected Work
 
-### 1. Mismatch Coach
-An AI-driven web application exploring how differences between communication and delivery can be identified and presented as useful feedback.
+### 🔐 Credecho
+**[One-line description of what Credecho does]**
 
-**Technologies:** HTML, JavaScript, Web APIs
+[2-3 sentences: the problem it solves, how it works, and your role.]
 
-🔗 [View Repository](https://github.com/sudharshan1812/mismatch-coach)
+`Python` `[add more tech]`
 
-### 2. Smart RFID Toll System
-A toll-management application featuring simulated RFID scanning, vehicle management, dynamic toll pricing, payment workflows, and digital receipts.
+[View Repository →](https://github.com/sudharshan1812/Credecho)
 
-**Technologies:** Java, Spring Boot, MySQL/H2, HTML, CSS, JavaScript
+### 🤖 Mismatch Coach
+**AI-Driven Workplace Assistant**
 
-🔗 [View Repository](https://github.com/sudharshan1812/Smart-RFID-Toll-System)
+Identifies, analyzes, and resolves communication and operational mismatches between teams, vendors, and clients. Powered by OpenAI Codex.
 
-### 3. Credecho
-Explore my project repository focused on credential-related functionality and application development.
+`HTML` `OpenAI Codex` `AI`
 
-🔗 [View Repository](https://github.com/sudharshan1812/Credecho)
+[View Repository →](https://github.com/sudharshan1812/mismatch-coach)
+
+### 🚦 Smart RFID Toll System
+**RFID-Enabled Toll Management**
+
+A Java-based system that automates toll collection using RFID identification. [Add one line on key features, e.g. account balance deduction or vehicle logging.]
+
+`Java` `RFID` `OOP`
+
+[View Repository →](https://github.com/sudharshan1812/Smart-RFID-Toll-System)
+
+### 🖥️ OS Programs
+**Operating Systems Practice**
+
+A collection of shell programs and C implementations of core OS concepts.
+
+`C` `Shell` `Linux`
+
+[View Repository →](https://github.com/sudharshan1812/OS-PROGRAMS)
 
 ---
 
-## 📈 My GitHub
+## Technology Stack
+
+| Domain | Focus |
+|--------|-------|
+| **Languages** | Python · Java · C · JavaScript · SQL |
+| **Web** | HTML · CSS · JavaScript |
+| **Core Concepts** | OOP · Data Structures · DBMS · Operating Systems |
+| **Interests** | Cybersecurity · Machine Learning · Full-Stack Development |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudharshan1812&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql,git,github,linux&perline=10" alt="Tech stack">
+</p>
+
+---
+
+## GitHub Activity
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sudharshan1812&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharshan1812&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudharshan1812&theme=tokyonight" alt="Profile details" height="170">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudharshan1812&theme=tokyonight" alt="Repos per language" height="170">
 </p>
 
 ---
 
-## 🎯 Current Focus
+## Engineering Philosophy
 
-- Strengthening Python and networking fundamentals.
-- Learning cybersecurity concepts and security tools.
-- Practising coding and problem-solving.
-- Developing projects and improving their documentation.
-- Building a strong foundation for a future in security analysis.
+> **Build it to work. Secure it by design. Keep improving it.**
 
 ---
 
-## 🤝 Connect With Me
+## Let's Connect
 
-<p>
-  <a href="https://github.com/sudharshan1812">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+I'm open to internships, collaborations, and conversations about software and security.
 
----
+📫 [LinkedIn](https://www.linkedin.com/in/sudharshan-manikandan-7a3381372/) · [GitHub](https://github.com/sudharshan1812)
 
-<p align="center">
-  <i>"Learn continuously. Build thoughtfully. Secure by design."</i>
-</p>
+<p align="center"><i>Learning, building, and improving one project at a time.</i></p>
