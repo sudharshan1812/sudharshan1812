@@ -82,20 +82,46 @@ A collection of shell programs and C implementations of core OS concepts.
 
 ## Technology Stack
 
-| Domain | Focus |
-|--------|-------|
-| **Languages** | Python · Java · C · JavaScript · SQL |
-| **Web** | HTML · CSS · JavaScript |
-| **Core Concepts** | OOP · Data Structures · DBMS · Operating Systems |
-| **Interests** | Cybersecurity · Machine Learning · Full-Stack Development |
-
+<h4 align="center">Languages</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql,git,github,linux&perline=10" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts&perline=5" alt="Languages">
+</p>
+
+<h4 align="center">Web & Backend</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,nextjs,tailwind,fastapi&perline=5" alt="Web and backend">
+</p>
+
+<h4 align="center">Data & Machine Learning</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=2" alt="Databases"><br>
+  <img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge" alt="XGBoost">
+  <img src="https://img.shields.io/badge/Machine_Learning-1E293B?style=for-the-badge" alt="Machine Learning">
+</p>
+
+<h4 align="center">Tools & Platforms</h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash&perline=5" alt="Tools">
+</p>
+
+<h4 align="center">Core Computer Science</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/OOP-1E293B?style=for-the-badge" alt="OOP">
+  <img src="https://img.shields.io/badge/Data_Structures-1E293B?style=for-the-badge" alt="Data Structures">
+  <img src="https://img.shields.io/badge/DBMS-1E293B?style=for-the-badge" alt="DBMS">
+  <img src="https://img.shields.io/badge/Operating_Systems-1E293B?style=for-the-badge" alt="Operating Systems">
+</p>
+
+<h4 align="center">Focus Areas</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-F2B84B?style=for-the-badge&logoColor=black" alt="Cybersecurity">
+  <img src="https://img.shields.io/badge/Full--Stack_Development-2563EB?style=for-the-badge" alt="Full-Stack Development">
+  <img src="https://img.shields.io/badge/Machine_Learning-1E293B?style=for-the-badge" alt="Machine Learning">
 </p>
 
 ---
 
-## GitHub Activity
+
 
 ## GitHub Activity
 
