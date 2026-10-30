@@ -108,31 +108,13 @@ I'm a **Computer Science student specializing in Cybersecurity**, based in **Che
 
 
 ## GitHub Insights
+## GitHub Insights
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sudharshan1812&theme=tokyonight&hide_border=true" alt="GitHub streak">
+  <a href="https://github.com/sudharshan1812?tab=repositories">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudharshan1812&theme=tokyonight" alt="Top languages by repo" height="200">
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/sudharshan1812?style=for-the-badge&logo=github&logoColor=white&color=2563EB" alt="Followers">
-  <img src="https://img.shields.io/github/last-commit/sudharshan1812/Credecho?style=for-the-badge&logo=git&logoColor=white&color=F2B84B&labelColor=1E293B" alt="Last commit">
-  <img src="https://img.shields.io/github/languages/top/sudharshan1812/Credecho?style=for-the-badge&color=3776AB&labelColor=1E293B" alt="Top language">
-</p>
-
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/sudharshan1812?tab=repositories">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudharshan1812&theme=tokyonight" alt="Profile details">
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/sudharshan1812?tab=repositories">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudharshan1812&theme=tokyonight" alt="Top languages">
-      </a>
-    </td>
-  </tr>
-</table>
 
 ---
 
