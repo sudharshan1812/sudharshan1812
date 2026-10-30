@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a **Computer Science student specializing in Cybersecurity**, based in **Chennai, India**. I build practical software, from secure applications to intelligent systems, and I care about getting the fundamentals right: clean code, solid data structures, and security designed in from the start.
+I'm a **Computer Science student specializing in Cybersecurity**, at **Chennai Institute Of Technology ,Chennai , India**. I build practical software, from secure applications to intelligent systems, and I care about getting the fundamentals right: clean code, solid data structures, and security designed in from the start.
 
 **What I work on**
 
