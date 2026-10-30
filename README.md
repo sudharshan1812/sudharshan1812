@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Sudharshan M - Computer Science & Cybersecurity Undergraduate" width="100%">
+  <img src="banner(1).svg" alt="Sudharshan M - Computer Science & Cybersecurity Undergraduate" width="100%">
 </p>
 
 <p align="center">
