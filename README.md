@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/sudharshan-manikandan-7a3381372/"><img src="https://img.shields.io/badge/LinkedIn-Sudharshan_Manikandan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://github.com/sudharshan1812"><img src="https://img.shields.io/badge/GitHub-sudharshan1812-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:sudharshan.mj07@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+ <a href="https://wa.me/919444224114"><img src="https://img.shields.io/badge/WhatsApp-Contact_Me-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <img src="https://komarev.com/ghpvc/?username=sudharshan1812&style=flat-square&color=2563EB" alt="Profile views">
 </p>
 
