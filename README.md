@@ -107,7 +107,7 @@ I'm a **Computer Science student specializing in Cybersecurity**, based in **Che
 | **Core CS** | ![OOP](https://img.shields.io/badge/OOP-1E293B?style=flat-square) ![Data Structures](https://img.shields.io/badge/Data_Structures-1E293B?style=flat-square) ![DBMS](https://img.shields.io/badge/DBMS-1E293B?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating_Systems-1E293B?style=flat-square) |---
 
 
-## GitHub Insights
+
 ## GitHub Insights
 
 <p align="center">
