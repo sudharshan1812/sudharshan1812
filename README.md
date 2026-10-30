@@ -121,10 +121,30 @@ I'm a **Computer Science student specializing in Cybersecurity**, based in **Che
 
 ---
 
-## Engineering Philosophy
+## How I Build
 
-> **Build it to work. Secure it by design. Keep improving it.**
+<h3 align="center"><i>"Build it to work. Secure it by design. Keep improving it."</i></h3>
 
+<table>
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <h4>🛡️ Secure by Design</h4>
+      Security is part of the first design decision, not a patch added at the end.
+    </td>
+    <td width="25%" valign="top" align="center">
+      <h4>🧩 Simple First</h4>
+      A clean, working version comes before extra features, and complexity is added only when needed.
+    </td>
+    <td width="25%" valign="top" align="center">
+      <h4>🔍 Explainable</h4>
+      Systems should show why they produce a result, as in Credecho's explainable credit scores.
+    </td>
+    <td width="25%" valign="top" align="center">
+      <h4>🌱 Always Improving</h4>
+      Each project is a chance to learn a new tool and refine how I build.
+    </td>
+  </tr>
+</table>
 ---
 
 ## Let's Connect
