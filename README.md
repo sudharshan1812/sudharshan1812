@@ -18,7 +18,7 @@ I'm a **Computer Science student specializing in Cybersecurity**, at **Chennai I
 
  <p>
   🌐 My Interactive Portfolio —
-  <a href="https://sudharshan1812.github.io/sudharshan1812/">Launch SUDHARSHAN.OS</a>
+  <a href=" https://sudharshan1812.github.io/sudharshan-term/">Launch SUDHARSHAN.OS</a>
 </p>
 
 **What I work on**
