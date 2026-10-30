@@ -49,6 +49,7 @@ CredEcho helps financial institutions evaluate New-to-Credit (NTC) and New-to-Ba
 **AI-Driven Workplace Assistant**
 
 Identifies, analyzes, and resolves communication and operational mismatches between teams, vendors, and clients. Powered by OpenAI Codex.
+Mismatch Coach detects potential communication mismatches by analyzing spoken words and nonverbal delivery together. It uses speech recognition to identify hedging phrases such as “I think,” “maybe,” and “probably,” while facial analysis estimates eye contact during the same time period. The system compares these signals within a two-second time window to identify moments when uncertain wording coincides with reduced eye contact. It also recognizes positive moments when confident expressions, such as “definitely” or “successfully,” occur alongside steady eye contact. Based on these patterns, it generates an alignment score and personalized suggestions to improve communication. The current prototype uses keyword-based rules and timing comparisons rather than a sophisticated AI confidence model, so it identifies potential mismatches rather than definitively determining a person's confidence or honesty
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
