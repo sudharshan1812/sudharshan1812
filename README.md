@@ -29,57 +29,74 @@ I'm a **Computer Science student specializing in Cybersecurity**, based in **Che
 
 ## Selected Work
 
-### 🔐 Credecho
-**AI-powered financial health assessment and credit intelligence platform for MSMEs**
-
-CredEcho helps financial institutions evaluate New-to-Credit (NTC) and New-to-Bank (NTB) Micro, Small and Medium Enterprises (MSMEs) that lack traditional credit histories. It leverages alternative financial indicators such as GST, UPI, cash flow, EPFO and banking activity through an XGBoost-based machine learning model to generate explainable financial health scores, credit risk assessments and lending recommendations. I developed the machine learning pipeline, FastAPI backend and Next.js frontend, including an interactive Financial Health Card and real-time what-if analysis simulator.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-[View Repository →](https://github.com/sudharshan1812/Credecho)
-
-### 🤖 Mismatch Coach
-**AI-Driven Workplace Assistant**
-
-Identifies, analyzes, and resolves communication and operational mismatches between teams, vendors, and clients. Powered by OpenAI Codex.
-Mismatch Coach detects potential communication mismatches by analyzing spoken words and nonverbal delivery together. It uses speech recognition to identify hedging phrases such as “I think,” “maybe,” and “probably,” while facial analysis estimates eye contact during the same time period. The system compares these signals within a two-second time window to identify moments when uncertain wording coincides with reduced eye contact. It also recognizes positive moments when confident expressions, such as “definitely” or “successfully,” occur alongside steady eye contact. Based on these patterns, it generates an alignment score and personalized suggestions to improve communication. The current prototype uses keyword-based rules and timing comparisons rather than a sophisticated AI confidence model, so it identifies potential mismatches rather than definitively determining a person's confidence or honesty
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
-![AI](https://img.shields.io/badge/AI-0F172A?style=flat-square)
-
-[View Repository →](https://github.com/sudharshan1812/mismatch-coach)
-
-### 🚦 Smart RFID Toll System
-**RFID-Enabled Toll Management**
-
-A Java-based system that automates toll collection using RFID identification. [Add one line on key features, e.g. account balance deduction or vehicle logging.]
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![RFID](https://img.shields.io/badge/RFID-0F172A?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-2563EB?style=flat-square)
-
-[View Repository →](https://github.com/sudharshan1812/Smart-RFID-Toll-System)
-
-### 🖥️ OS Programs
-**Operating Systems Practice**
-
-A collection of shell programs and C implementations of core OS concepts.
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-[View Repository →](https://github.com/sudharshan1812/OS-PROGRAMS)
-
----
+<table>
+  <tr>
+    <td width="28%" valign="top">
+      <h3>🔐 Credecho</h3>
+      <sub><b>AI credit intelligence for MSMEs</b></sub>
+      <br><br>
+      <a href="https://github.com/sudharshan1812/Credecho">View Repository →</a>
+    </td>
+    <td width="72%" valign="top">
+      CredEcho helps financial institutions evaluate New-to-Credit and New-to-Bank MSMEs that lack traditional credit histories. Instead of relying on past loans, it uses alternative financial indicators such as GST, UPI, cash flow, EPFO, and banking activity. An XGBoost-based machine learning model turns these signals into explainable financial health scores, credit risk assessments, and lending recommendations. I developed the ML pipeline, the FastAPI backend, and the Next.js frontend, including an interactive Financial Health Card and a real-time what-if analysis simulator.
+      <br><br>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square" alt="XGBoost">
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top">
+      <h3>🤖 Mismatch Coach</h3>
+      <sub><b>AI communication assistant</b></sub>
+      <br><br>
+      <a href="https://github.com/sudharshan1812/mismatch-coach">View Repository →</a>
+    </td>
+    <td width="72%" valign="top">
+      Mismatch Coach detects moments when a speaker's words and nonverbal delivery don't line up. It uses speech recognition to catch hedging phrases such as "I think," "maybe," and "probably," while facial analysis estimates eye contact over the same period. The two signals are compared within a two-second window to find uncertain wording paired with reduced eye contact, and to recognize confident moments too. It then generates an alignment score with personalized suggestions. The prototype uses keyword rules and timing comparisons, so it flags possible mismatches and does not judge a person's confidence or honesty.
+      <br><br>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+      <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex">
+      <img src="https://img.shields.io/badge/Speech_Recognition-0F172A?style=flat-square" alt="Speech Recognition">
+      <img src="https://img.shields.io/badge/Facial_Analysis-0F172A?style=flat-square" alt="Facial Analysis">
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top">
+      <h3>🚦 Smart RFID Toll System</h3>
+      <sub><b>Automated toll management</b></sub>
+      <br><br>
+      <a href="https://github.com/sudharshan1812/Smart-RFID-Toll-System">View Repository →</a>
+    </td>
+    <td width="72%" valign="top">
+      A Java-based toll management system that replaces manual cash payment with RFID identification. Each vehicle carries a unique RFID tag, and the system reads it as the vehicle reaches the toll point and identifies it automatically. Because toll processing is handled in code, vehicles do not need to stop at a booth to pay, which reduces queues and waiting time. The project uses object-oriented design, separating vehicles, tags, and toll logic into clear classes so the code stays organized, modular, and easy to extend.
+      <br><br>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+      <img src="https://img.shields.io/badge/RFID-0F172A?style=flat-square" alt="RFID">
+      <img src="https://img.shields.io/badge/OOP-2563EB?style=flat-square" alt="OOP">
+    </td>
+  </tr>
+  <tr>
+    <td width="28%" valign="top">
+      <h3>🖥️ OS Programs</h3>
+      <sub><b>Operating systems practice</b></sub>
+      <br><br>
+      <a href="https://github.com/sudharshan1812/OS-PROGRAMS">View Repository →</a>
+    </td>
+    <td width="72%" valign="top">
+      A collection of shell scripts and C programs that implement core operating system concepts, written and tested in a Linux environment. The shell programs practise scripting, file handling, and process-related commands, while the C programs work through how an operating system manages processes and resources. Each program is small and focused on a single concept, which makes the repository a clear reference for revision. Building them gave me hands-on understanding of system-level programming beyond what theory alone teaches.
+      <br><br>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+      <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+    </td>
+  </tr>
+</table>
 
 ## Technology Stack
 
