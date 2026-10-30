@@ -107,17 +107,32 @@ I'm a **Computer Science student specializing in Cybersecurity**, based in **Che
 | **Core CS** | ![OOP](https://img.shields.io/badge/OOP-1E293B?style=flat-square) ![Data Structures](https://img.shields.io/badge/Data_Structures-1E293B?style=flat-square) ![DBMS](https://img.shields.io/badge/DBMS-1E293B?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating_Systems-1E293B?style=flat-square) |---
 
 
-
-## GitHub Activity
+## GitHub Insights
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=sudharshan1812&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudharshan1812&theme=tokyonight" alt="Profile details" height="170">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudharshan1812&theme=tokyonight" alt="Repos per language" height="170">
+  <img src="https://img.shields.io/github/followers/sudharshan1812?style=for-the-badge&logo=github&logoColor=white&color=2563EB" alt="Followers">
+  <img src="https://img.shields.io/github/last-commit/sudharshan1812/Credecho?style=for-the-badge&logo=git&logoColor=white&color=F2B84B&labelColor=1E293B" alt="Last commit">
+  <img src="https://img.shields.io/github/languages/top/sudharshan1812/Credecho?style=for-the-badge&color=3776AB&labelColor=1E293B" alt="Top language">
 </p>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/sudharshan1812?tab=repositories">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudharshan1812&theme=tokyonight" alt="Profile details">
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/sudharshan1812?tab=repositories">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudharshan1812&theme=tokyonight" alt="Top languages">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
