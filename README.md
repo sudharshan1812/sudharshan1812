@@ -1,107 +1,112 @@
+<h1 align="center">Hi, I'm Sudharshan 👋</h1>
+
+<h3 align="center">Cybersecurity Student | Aspiring Security Analyst</h3>
+
 <p align="center">
-  <img src="./assets/banner.svg" alt="Sudharshan M — Cybersecurity Undergraduate, Full-Stack Builder, ML Enthusiast" width="100%"/>
+  Learning, building, and exploring the world of cybersecurity and software development.
 </p>
 
 <p align="center">
-  <a href="https://github.com/sudharshan1812"><img src="https://img.shields.io/badge/GitHub-sudharshan1812-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/sudharshan-manikandan-7a3381372/"><img src="https://img.shields.io/badge/LinkedIn-Sudharshan_Manikandan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://komarev.com/ghpvc/?username=sudharshan1812&style=flat-square&color=2563EB" alt="Profile views"/>
-</p>
-
----
-
-## About Me
-
-I'm **Sudharshan M**, a **Computer Science undergraduate focused on Cybersecurity**, based in Chennai, India. I like building software that is **practical, secure and intelligent**, and taking ideas from problem definition to a working implementation.
-
-**What I work on**
-
-- **Cybersecurity**: secure software development and application security fundamentals
-- **Full-Stack Development**: Python, Java and web applications end to end
-- **AI / ML**: intelligent assistants and applied machine learning
-- **Core CS**: data structures, DBMS, operating systems and OOP
-
-**Currently working on:** [Credecho](https://github.com/sudharshan1812/Credecho)
-
----
-
-## Selected Work
-
-### Credecho
-**Python Project**
-
-A software project from my portfolio, built in Python.
-
-`Python`
-
-[View repository](https://github.com/sudharshan1812/Credecho)
-
-### Mismatch Coach
-**AI-Driven Workplace Assistant**
-
-An assistant that identifies, analyzes and helps resolve communication and operational mismatches between teams, vendors and clients, powered by OpenAI Codex.
-
-`HTML` `AI` `OpenAI Codex`
-
-[View repository](https://github.com/sudharshan1812/mismatch-coach)
-
-### Smart RFID Toll System
-**RFID-Enabled Toll Management**
-
-A Java-based system focused on automating toll collection using RFID.
-
-`Java` `RFID` `OOP`
-
-[View repository](https://github.com/sudharshan1812/Smart-RFID-Toll-System)
-
-### OS Programs
-**Operating Systems & Shell Programs**
-
-A collection of C and shell programs exploring core operating system concepts.
-
-`C` `Shell` `Operating Systems`
-
-[View repository](https://github.com/sudharshan1812/OS-PROGRAMS)
-
----
-
-<!--
-## Internship Experience
-Add your internships here, in the same format:
-
-### Company Name
-**Role | Month Year – Month Year**
-Short description of what you worked on.
-`Tech` `Tech` `Tech`
-
-## Recognition
-| Result | Recognition |
-|--------|-------------|
-| **Winner / Finalist** | Hackathon or competition name |
--->
-
-## Technology Stack
-
-[![Technology stack](https://skillicons.dev/icons?i=python,java,c,js,html,css,mysql,git,github,linux&perline=9)](https://skillicons.dev)
-
-| Domain | Focus |
-|---|---|
-| **Languages** | Python · Java · C · JavaScript · SQL |
-| **Web Development** | HTML · CSS · JavaScript |
-| **Core Concepts** | OOP · Data Structures · DBMS · Operating Systems |
-| **Interests** | Cybersecurity · Machine Learning · Full-Stack Development · Secure Software Development |
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudharshan1812&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharshan1812&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+  <a href="https://github.com/sudharshan1812">
+    <img src="https://img.shields.io/badge/GitHub-sudharshan1812-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+  </a>
 </p>
 
 ---
 
-## Engineering Philosophy
+## 👨‍💻 About Me
 
-> **Build things that work. Make them secure by design. Keep learning and improving, one project at a time.**
+I'm a Cybersecurity student at Chennai Institute of Technology, interested in understanding how systems work, identifying security weaknesses, and building technology that solves real-world problems.
+
+- 🔐 Interested in cybersecurity, ethical hacking, and digital security.
+- 🐍 Learning Python and strengthening my programming fundamentals.
+- 🌐 Exploring networking, web technologies, and security concepts.
+- 🛠️ Building projects to develop practical technical skills.
+- 📚 Continuously learning through hands-on practice and technical projects.
+- 🎯 Goal: Build a career as a Security Analyst.
+
+---
+
+## 🛠️ Technologies & Areas of Interest
+
+**Programming**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+**Cybersecurity Learning**
+<p>
+  <img src="https://img.shields.io/badge/Network_Security-0A66C2?style=flat-square" alt="Network Security"/>
+  <img src="https://img.shields.io/badge/Web_Security-2E8B57?style=flat-square" alt="Web Security"/>
+  <img src="https://img.shields.io/badge/Ethical_Hacking-333333?style=flat-square" alt="Ethical Hacking"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+</p>
+
+*I'm continuously developing these skills through coursework, personal projects, and hands-on practice.*
+
+---
+
+## 🚀 Featured Projects
+
+### 1. Mismatch Coach
+An AI-driven web application exploring how differences between communication and delivery can be identified and presented as useful feedback.
+
+**Technologies:** HTML, JavaScript, Web APIs
+
+🔗 [View Repository](https://github.com/sudharshan1812/mismatch-coach)
+
+### 2. Smart RFID Toll System
+A toll-management application featuring simulated RFID scanning, vehicle management, dynamic toll pricing, payment workflows, and digital receipts.
+
+**Technologies:** Java, Spring Boot, MySQL/H2, HTML, CSS, JavaScript
+
+🔗 [View Repository](https://github.com/sudharshan1812/Smart-RFID-Toll-System)
+
+### 3. Credecho
+Explore my project repository focused on credential-related functionality and application development.
+
+🔗 [View Repository](https://github.com/sudharshan1812/Credecho)
+
+---
+
+## 📈 My GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudharshan1812&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharshan1812&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Strengthening Python and networking fundamentals.
+- Learning cybersecurity concepts and security tools.
+- Practising coding and problem-solving.
+- Developing projects and improving their documentation.
+- Building a strong foundation for a future in security analysis.
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/sudharshan1812">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Learn continuously. Build thoughtfully. Secure by design."</i>
+</p>
