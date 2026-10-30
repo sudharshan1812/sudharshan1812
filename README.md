@@ -50,7 +50,9 @@ CredEcho helps financial institutions evaluate New-to-Credit (NTC) and New-to-Ba
 
 Identifies, analyzes, and resolves communication and operational mismatches between teams, vendors, and clients. Powered by OpenAI Codex.
 
-`HTML` `OpenAI Codex` `AI`
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![AI](https://img.shields.io/badge/AI-0F172A?style=flat-square)
 
 [View Repository →](https://github.com/sudharshan1812/mismatch-coach)
 
@@ -59,7 +61,9 @@ Identifies, analyzes, and resolves communication and operational mismatches betw
 
 A Java-based system that automates toll collection using RFID identification. [Add one line on key features, e.g. account balance deduction or vehicle logging.]
 
-`Java` `RFID` `OOP`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![RFID](https://img.shields.io/badge/RFID-0F172A?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-2563EB?style=flat-square)
 
 [View Repository →](https://github.com/sudharshan1812/Smart-RFID-Toll-System)
 
@@ -68,7 +72,9 @@ A Java-based system that automates toll collection using RFID identification. [A
 
 A collection of shell programs and C implementations of core OS concepts.
 
-`C` `Shell` `Linux`
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 [View Repository →](https://github.com/sudharshan1812/OS-PROGRAMS)
 
