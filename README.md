@@ -145,7 +145,7 @@ I'm a **Computer Science student specializing in Cybersecurity**, based in **Che
     </td>
   </tr>
 </table>
----
+
 
 ## Let's Connect
 
