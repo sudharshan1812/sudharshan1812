@@ -17,7 +17,7 @@
 I'm a **Computer Science student specializing in Cybersecurity**, at **Chennai Institute Of Technology ,Chennai , India**. I build practical software, from secure applications to intelligent systems, and I care about getting the fundamentals right: clean code, solid data structures, and security designed in from the start.
 
  <p>
-  🌐 My Interactive Portfolio —
+  🌐 terminal Portfolio —
    https://sudharshan1812.github.io/sudharshan-term/
 </p>
 
