@@ -151,6 +151,9 @@ I'm a **Computer Science student specializing in Cybersecurity**, based in **Che
 
 I'm open to internships, collaborations, and conversations about software and security.
 
-📫 [LinkedIn](https://www.linkedin.com/in/sudharshan-manikandan-7a3381372/) · [GitHub](https://github.com/sudharshan1812)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sudharshan-manikandan-7a3381372/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/sudharshan1812"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 <p align="center"><i>Learning, building, and improving one project at a time.</i></p>
