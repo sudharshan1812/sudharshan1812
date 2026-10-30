@@ -1,7 +1,5 @@
-<h1 align="center">Sudharshan M</h1>
 <p align="center">
-  <b>Computer Science & Cybersecurity Undergraduate</b><br>
-  Full-Stack Development · Secure Software · Machine Learning
+  <img src="banner.svg" alt="Sudharshan M - Computer Science & Cybersecurity Undergraduate" width="100%">
 </p>
 
 <p align="center">
