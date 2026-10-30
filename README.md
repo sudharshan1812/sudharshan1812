@@ -146,6 +146,12 @@ I'm a **Computer Science student specializing in Cybersecurity**, based in **Che
   </tr>
 </table>
 
+---
+<p align="center">
+  <img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" height="170" alt="Top languages">
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" height="170" alt="Profile details">
+</p> 
+---
 
 ## Let's Connect
 
