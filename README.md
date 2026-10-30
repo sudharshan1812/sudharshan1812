@@ -31,11 +31,10 @@ I'm a **Computer Science student specializing in Cybersecurity**, based in **Che
 
 <table>
   <tr>
-    <td width="28%" valign="top">
+       <td width="28%" valign="middle" align="center">
       <h3>🔐 Credecho</h3>
-      <sub><b>AI credit intelligence for MSMEs</b></sub>
-      <br><br>
-      <a href="https://github.com/sudharshan1812/Credecho">View Repository →</a>
+      <h4>AI credit intelligence for MSMEs</h4>
+      <a href="https://github.com/sudharshan1812/Credecho"><img src="https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
     </td>
     <td width="72%" valign="top">
       CredEcho helps financial institutions evaluate New-to-Credit and New-to-Bank MSMEs that lack traditional credit histories. Instead of relying on past loans, it uses alternative financial indicators such as GST, UPI, cash flow, EPFO, and banking activity. An XGBoost-based machine learning model turns these signals into explainable financial health scores, credit risk assessments, and lending recommendations. I developed the ML pipeline, the FastAPI backend, and the Next.js frontend, including an interactive Financial Health Card and a real-time what-if analysis simulator.
@@ -51,11 +50,10 @@ I'm a **Computer Science student specializing in Cybersecurity**, based in **Che
     </td>
   </tr>
   <tr>
-    <td width="28%" valign="top">
+        <td width="28%" valign="middle" align="center">
       <h3>🤖 Mismatch Coach</h3>
-      <sub><b>AI communication assistant</b></sub>
-      <br><br>
-      <a href="https://github.com/sudharshan1812/mismatch-coach">View Repository →</a>
+      <h4>AI communication assistant</h4>
+      <a href="https://github.com/sudharshan1812/mismatch-coach"><img src="https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
     </td>
     <td width="72%" valign="top">
       Mismatch Coach detects moments when a speaker's words and nonverbal delivery don't line up. It uses speech recognition to catch hedging phrases such as "I think," "maybe," and "probably," while facial analysis estimates eye contact over the same period. The two signals are compared within a two-second window to find uncertain wording paired with reduced eye contact, and to recognize confident moments too. It then generates an alignment score with personalized suggestions. The prototype uses keyword rules and timing comparisons, so it flags possible mismatches and does not judge a person's confidence or honesty.
@@ -67,11 +65,10 @@ I'm a **Computer Science student specializing in Cybersecurity**, based in **Che
     </td>
   </tr>
   <tr>
-    <td width="28%" valign="top">
+       <td width="28%" valign="middle" align="center">
       <h3>🚦 Smart RFID Toll System</h3>
-      <sub><b>Automated toll management</b></sub>
-      <br><br>
-      <a href="https://github.com/sudharshan1812/Smart-RFID-Toll-System">View Repository →</a>
+      <h4>Automated toll management</h4>
+      <a href="https://github.com/sudharshan1812/Smart-RFID-Toll-System"><img src="https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
     </td>
     <td width="72%" valign="top">
       A Java-based toll management system that replaces manual cash payment with RFID identification. Each vehicle carries a unique RFID tag, and the system reads it as the vehicle reaches the toll point and identifies it automatically. Because toll processing is handled in code, vehicles do not need to stop at a booth to pay, which reduces queues and waiting time. The project uses object-oriented design, separating vehicles, tags, and toll logic into clear classes so the code stays organized, modular, and easy to extend.
@@ -82,11 +79,10 @@ I'm a **Computer Science student specializing in Cybersecurity**, based in **Che
     </td>
   </tr>
   <tr>
-    <td width="28%" valign="top">
+       <td width="28%" valign="middle" align="center">
       <h3>🖥️ OS Programs</h3>
-      <sub><b>Operating systems practice</b></sub>
-      <br><br>
-      <a href="https://github.com/sudharshan1812/OS-PROGRAMS">View Repository →</a>
+      <h4>Operating systems practice</h4>
+      <a href="https://github.com/sudharshan1812/OS-PROGRAMS"><img src="https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"></a>
     </td>
     <td width="72%" valign="top">
       A collection of shell scripts and C programs that implement core operating system concepts, written and tested in a Linux environment. The shell programs practise scripting, file handling, and process-related commands, while the C programs work through how an operating system manages processes and resources. Each program is small and focused on a single concept, which makes the repository a clear reference for revision. Building them gave me hands-on understanding of system-level programming beyond what theory alone teaches.
