@@ -82,44 +82,15 @@ A collection of shell programs and C implementations of core OS concepts.
 
 ## Technology Stack
 
-<h4 align="center">Languages</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts&perline=5" alt="Languages">
-</p>
-
-<h4 align="center">Web & Backend</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,nextjs,tailwind,fastapi&perline=5" alt="Web and backend">
-</p>
-
-<h4 align="center">Data & Machine Learning</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&perline=2" alt="Databases"><br>
-  <img src="https://img.shields.io/badge/XGBoost-EB5E28?style=for-the-badge" alt="XGBoost">
-  <img src="https://img.shields.io/badge/Machine_Learning-1E293B?style=for-the-badge" alt="Machine Learning">
-</p>
-
-<h4 align="center">Tools & Platforms</h4>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash&perline=5" alt="Tools">
-</p>
-
-<h4 align="center">Core Computer Science</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/OOP-1E293B?style=for-the-badge" alt="OOP">
-  <img src="https://img.shields.io/badge/Data_Structures-1E293B?style=for-the-badge" alt="Data Structures">
-  <img src="https://img.shields.io/badge/DBMS-1E293B?style=for-the-badge" alt="DBMS">
-  <img src="https://img.shields.io/badge/Operating_Systems-1E293B?style=for-the-badge" alt="Operating Systems">
-</p>
-
-<h4 align="center">Focus Areas</h4>
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-F2B84B?style=for-the-badge&logoColor=black" alt="Cybersecurity">
-  <img src="https://img.shields.io/badge/Full--Stack_Development-2563EB?style=for-the-badge" alt="Full-Stack Development">
-  <img src="https://img.shields.io/badge/Machine_Learning-1E293B?style=for-the-badge" alt="Machine Learning">
-</p>
-
----
+| | |
+|:--|:--|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Frontend** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Backend & Data** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
+| **Machine Learning** | ![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square) ![Python](https://img.shields.io/badge/Predictive_Modelling-1E293B?style=flat-square) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) |
+| **Security** | ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-F2B84B?style=flat-square&logoColor=black) ![Secure Software Development](https://img.shields.io/badge/Secure_Software_Development-F2B84B?style=flat-square) |
+| **Core CS** | ![OOP](https://img.shields.io/badge/OOP-1E293B?style=flat-square) ![Data Structures](https://img.shields.io/badge/Data_Structures-1E293B?style=flat-square) ![DBMS](https://img.shields.io/badge/DBMS-1E293B?style=flat-square) ![Operating Systems](https://img.shields.io/badge/Operating_Systems-1E293B?style=flat-square) |---
 
 
 
