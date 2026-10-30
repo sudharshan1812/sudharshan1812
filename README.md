@@ -30,11 +30,11 @@ I'm a **Computer Science student specializing in Cybersecurity**, based in **Che
 ## Selected Work
 
 ### 🔐 Credecho
-**[One-line description of what Credecho does]**
+**AI-powered financial health assessment and credit intelligence platform for MSMEs**
 
-[2-3 sentences: the problem it solves, how it works, and your role.]
+CredEcho helps financial institutions evaluate New-to-Credit (NTC) and New-to-Bank (NTB) Micro, Small and Medium Enterprises (MSMEs) that lack traditional credit histories. It leverages alternative financial indicators such as GST, UPI, cash flow, EPFO and banking activity through an XGBoost-based machine learning model to generate explainable financial health scores, credit risk assessments and lending recommendations. I developed the machine learning pipeline, FastAPI backend and Next.js frontend, including an interactive Financial Health Card and real-time what-if analysis simulator.
 
-`Python` `[add more tech]`
+`Python` `[ XGBoost ] · [FastAPI] · [Next.js] · [TypeScript] · [Tailwind CSS] ·[ PostgreSQL ]·[ Dockerd more tech]`
 
 [View Repository →](https://github.com/sudharshan1812/Credecho)
 
