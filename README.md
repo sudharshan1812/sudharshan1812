@@ -110,12 +110,27 @@ I'm a **Computer Science student specializing in Cybersecurity**, based in **Che
 
 ## GitHub Insights
 
-<p align="center">
-  <a href="https://github.com/sudharshan1812?tab=repositories">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudharshan1812&theme=tokyonight" alt="Top languages by repo" height="200">
-  </a>
-</p>
-
+<table>
+  <tr>
+    <td width="45%" valign="middle" align="center">
+      <h3>Language Breakdown</h3>
+      <h4>Where most of my code lives</h4>
+      <p>A live view of the languages across my repositories, from systems programming in C and Java to machine learning and web development in Python and HTML.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+      <br>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+      <br><br>
+      <a href="https://github.com/sudharshan1812?tab=repositories"><img src="https://img.shields.io/badge/Browse_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Browse repositories"></a>
+    </td>
+    <td width="55%" valign="middle" align="center">
+      <a href="https://github.com/sudharshan1812?tab=repositories">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudharshan1812&theme=tokyonight" alt="Top languages by repo" width="100%">
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## How I Build
