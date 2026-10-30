@@ -145,7 +145,13 @@ I'm a **Computer Science student specializing in Cybersecurity**, based in **Che
     </td>
   </tr>
 </table>
+---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sudharshan1812/sudharshan1812/output/github-snake-dark.svg" alt="Contribution snake">
+</p>
+
+---
 
 ## Let's Connect
 
